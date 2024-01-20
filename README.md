@@ -2,6 +2,11 @@
 > Before running the project, do a ```npm install```<br>
 > To run the project, do a ```npm run dev```
 
+## tools used
+- Nextjs framework ```v14.1.1-canary.1```
+- Ant Design UI framework ```v5.13.2```
+- Vanilla CSS
+
 ## routes
 - / - home page (root)
 - /product - product page (an empty page that will invoke an error saying "no product selected")
