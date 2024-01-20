@@ -1,5 +1,6 @@
 import Navbar from '../components/navbar'
 import Toolbar from '../components/toolbar'
+import Footer from '../components/footer'
 import './stylecss.css'
 import { GlobalContextProvider } from '@/context/store'
 
@@ -21,6 +22,7 @@ export default function RootLayout({
           <Toolbar />
           {children}
         </GlobalContextProvider>
+        <Footer />
       </body>
     </html>
   )
