@@ -1,5 +1,5 @@
 # Eezee intern take home assessment (frontend)
-> Before running the project, do a ```npm install```
+> Before running the project, do a ```npm install```<br>
 > To run the project, do a ```npm run dev```
 
 ## routes
