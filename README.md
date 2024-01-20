@@ -4,7 +4,7 @@
 It should now run on ```localhost:3000```
 
 ## tools used
-- Nextjs framework ```v14.1.1-canary.1```
+- Nextjs framework ```v14.1.1-canary.3```
 - Ant Design UI framework ```v5.13.2```
 - Vanilla CSS
 
