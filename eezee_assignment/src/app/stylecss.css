@@ -1,0 +1,86 @@
+:root {
+  --font-roboto: 'Roboto', sans-serif;
+  --max-width: 1100px;
+  --border-radius: 12px;
+}
+
+/* body */
+.bodyContent {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.bodyContent .description {
+  color: #55585D;
+}
+
+/* toolbar styling */
+.input-placeholder {
+  border-radius: 20px;
+  padding-right: 0 !important
+}
+
+.input-placeholder::placeholder {
+  color: #55585D;
+}
+
+.search-button {
+  background-color:#2A64DB;
+  color:white;
+  width:30px;
+  height:32px
+}
+
+.shopping-cart-button {
+  margin-top: -5%;
+  border: none;
+}
+
+.shopping-cart-button:hover {
+  background-color: white;
+}
+
+/* homepage styling */
+.vip-price .bulk-discount .moq {
+  font-size: small;
+  border: none;
+}
+.vip-price {
+  color: rgba(30, 77, 175, 1);
+  background-color: rgba(219, 229, 250, 1);
+}
+
+.bulk-discount {
+  background-color: rgba(255, 230, 156, 1);
+  color: black;
+}
+
+.moq {
+  background-color: rgba(239, 239, 240, 1);
+  color: rgba(85, 88, 93, 1);
+}
+
+/* product page styling */
+.productDetails Button {
+  color: rgba(42, 100, 219, 1)
+}
+
+.ant-input-number-handler-wrap { 
+  visibility: hidden;
+  border-radius: 1px;
+}
+
+.quantity {
+  display: flex;
+}
+
+.quantityComponent {
+  display: flex;
+  margin-left: 5%;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .quantityComponent .quantity {
+  border: '1px solid black';
+} */
