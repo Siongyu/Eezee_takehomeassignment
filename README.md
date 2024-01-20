@@ -1,6 +1,7 @@
 # Eezee intern take home assessment (frontend)
 > Before running the project, do a ```npm install```<br>
-> To run the project, do a ```npm run dev```
+> To run the project, do a ```npm run dev```<br>
+It should now run on ```localhost:3000```
 
 ## tools used
 - Nextjs framework ```v14.1.1-canary.1```
